@@ -1,0 +1,192 @@
+{
+  "main": {
+    "id": "8d3060d4c72e4f59",
+    "type": "split",
+    "children": [
+      {
+        "id": "872d13670de81cff",
+        "type": "split",
+        "children": [
+          {
+            "id": "08313ea79a067b0c",
+            "type": "tabs",
+            "dimension": 38.7212643678161,
+            "children": [
+              {
+                "id": "ae23ab4f4bdc874c",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Aylark Aurum.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "id": "754da8df4217dfcd",
+            "type": "tabs",
+            "dimension": 61.27873563218391,
+            "children": [
+              {
+                "id": "fd1a8cbfcd94991e",
+                "type": "leaf",
+                "state": {
+                  "type": "graph",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2f92d899d4bdafe0",
+    "type": "split",
+    "children": [
+      {
+        "id": "f17f3eead572bcce",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "70afc2ee78239d76",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "47d8b0721dc88f66",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b857749fc6c62419",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b76f869f8ba3a6d3",
+    "type": "split",
+    "children": [
+      {
+        "id": "292f884de57f85b2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d72095f3fd375034",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a101f0c9342f756a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8aeb21aa205f00fc",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "65524837722fee9a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "fd1a8cbfcd94991e",
+  "lastOpenFiles": [
+    "Brithym.md",
+    "Aylark Aurum.md",
+    "Kaladznaya.md",
+    "Iona Argent.md",
+    "liminal fragmentation.md",
+    "Caer Llanir.md",
+    "Isolde Gawlin.md",
+    "Gawain Raster.md",
+    "Hexworthy.md",
+    "Glair Family.md",
+    "Cecil Bishop.md",
+    "Patton Glair.md",
+    "Rowan Kirdech.md",
+    "Russo.md",
+    "The Long Verse.md",
+    "The Whisper.md",
+    "Untitled.canvas",
+    "sangrosmith.md",
+    "Wexcombe.md",
+    "Welcome.md"
+  ]
+}

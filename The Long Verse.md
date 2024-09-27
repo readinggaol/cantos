@@ -1,0 +1,1 @@
+The Long Verse is the eternal, continually shifting 'poem of life' that constitutes the core of fey magic. In contrast to demonic magic, The Long Verse is laconic and mysterious. It's power lies more in the realm of interpretation, metamagic/metaphysics and existentialism.

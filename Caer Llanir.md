@@ -1,0 +1,1 @@
+Caer Llanir is a castle near [[Brithym]] under the shadow of the highland hills that possibly has a connection to the fey world. It is purchased by [[Patton Glair]], who believes as much and wants to restore both its magical and financial potential.
