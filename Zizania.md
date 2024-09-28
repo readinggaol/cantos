@@ -1,0 +1,1 @@
+Zizania is a book of [[The Long Verse]], imbued with old fey magic and possible inhabited by a semi-autonomous entity. It has bound to [[Isolde Gawlin]], giving her magical abilities. It doesn't always listen to what her brain wants to do, but rather what her subconscious asks it to do, which is why it helped her kill Russo.

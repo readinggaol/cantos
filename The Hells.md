@@ -1,0 +1,3 @@
+The Hells is a subterranean world set beneath the mortal realm, ruled entirely by demons in various cities. It is governing/legislative body is the [[Infernal Gestalt]]. It is administered by the [[demonic courts]].
+
+The Hells are connected to the mortal realm in a few select places called Helldoors. These Helldoors are monitored by demons, and ledgers are kept to keep track of who comes and goes between the realms. However, there are secret gates as well that can be used for smuggling/escape. Iona Argent has one such secret gate locked inside her unnamed bauble.

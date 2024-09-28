@@ -1,0 +1,1 @@
+Cygnil is a small town outside of Wexcombe, generally only notable for its pear orchards. It is the home of [[Rowan Kirdech]] and his family.
