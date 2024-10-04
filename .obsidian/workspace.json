@@ -11,20 +11,15 @@
             "id": "fd1a8cbfcd94991e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "demonic courts.md",
-                "mode": "source",
-                "source": false
+                "file": "Images/Character Art.canvas",
+                "viewState": {
+                  "x": -535.249992904663,
+                  "y": -133,
+                  "zoom": 0
+                }
               }
-            }
-          },
-          {
-            "id": "2b76db739d3e2999",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
             }
           }
         ]
@@ -93,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "demonic courts.md",
+                "file": "Images/Character Art.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "demonic courts.md",
+                "file": "Images/Character Art.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "demonic courts.md"
+                "file": "Images/Character Art.canvas"
               }
             }
           }
@@ -157,10 +152,15 @@
   },
   "active": "fd1a8cbfcd94991e",
   "lastOpenFiles": [
+    "Images/Iona Argent.jpg",
+    "Images/Character Art.canvas",
+    "Images/Rowan Kirdech.jpg",
+    "Images/Iona Argent 2.jpg",
+    "Images",
+    "demonic courts.md",
     "example.md",
     "Adronax Phlogiston.md",
     "Arquebus.md",
-    "demonic courts.md",
     "Infernal Gestalt.md",
     "The Hells.md",
     "Kaladznaya.md",
@@ -182,7 +182,6 @@
     "Cecil Bishop.md",
     "Patton Glair.md",
     "Russo.md",
-    "The Whisper.md",
-    "sangrosmith.md"
+    "The Whisper.md"
   ]
 }
