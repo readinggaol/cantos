@@ -15,9 +15,9 @@
               "state": {
                 "file": "Images/Character Art.canvas",
                 "viewState": {
-                  "x": -535.249992904663,
-                  "y": -133,
-                  "zoom": 0
+                  "x": -520,
+                  "y": 310,
+                  "zoom": -0.6363093807213765
                 }
               }
             }
@@ -152,8 +152,12 @@
   },
   "active": "fd1a8cbfcd94991e",
   "lastOpenFiles": [
-    "Images/Iona Argent.jpg",
+    "Gawain Raster.md",
     "Images/Character Art.canvas",
+    "Images/Isolde2.png",
+    "Images/Isolde1.png",
+    "Isolde Gawlin.md",
+    "Images/Iona Argent.jpg",
     "Images/Rowan Kirdech.jpg",
     "Images/Iona Argent 2.jpg",
     "Images",
@@ -164,7 +168,6 @@
     "Infernal Gestalt.md",
     "The Hells.md",
     "Kaladznaya.md",
-    "Isolde Gawlin.md",
     "Cygnil.md",
     "Rowan Kirdech.md",
     "Zizania.md",
@@ -173,7 +176,6 @@
     "Aylark Aurum.md",
     "The Long Verse.md",
     "Untitled.canvas",
-    "Gawain Raster.md",
     "Glair Family.md",
     "Iona Argent.md",
     "liminal fragmentation.md",
