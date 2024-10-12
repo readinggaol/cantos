@@ -8,6 +8,14 @@
         "type": "tabs",
         "children": [
           {
+            "id": "9263201d53b642ad",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
             "id": "fd1a8cbfcd94991e",
             "type": "leaf",
             "state": {
@@ -15,14 +23,15 @@
               "state": {
                 "file": "Images/Character Art.canvas",
                 "viewState": {
-                  "x": -520,
-                  "y": 310,
-                  "zoom": -0.6363093807213765
+                  "x": -366.6091491456283,
+                  "y": 235.80122403187556,
+                  "zoom": -0.6666666666666667
                 }
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -72,7 +81,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "b76f869f8ba3a6d3",
@@ -152,7 +162,13 @@
   },
   "active": "fd1a8cbfcd94991e",
   "lastOpenFiles": [
+    "Pasted image 20241012202902.png",
+    "Gawain Raster 2.png",
+    "Gawain Raster 1.png",
+    "Torand Raster.md",
+    "Astrid Raster.md",
     "Gawain Raster.md",
+    "example.md",
     "Images/Character Art.canvas",
     "Images/Isolde2.png",
     "Images/Isolde1.png",
@@ -162,7 +178,6 @@
     "Images/Iona Argent 2.jpg",
     "Images",
     "demonic courts.md",
-    "example.md",
     "Adronax Phlogiston.md",
     "Arquebus.md",
     "Infernal Gestalt.md",
@@ -182,8 +197,6 @@
     "Caer Llanir.md",
     "Hexworthy.md",
     "Cecil Bishop.md",
-    "Patton Glair.md",
-    "Russo.md",
-    "The Whisper.md"
+    "Patton Glair.md"
   ]
 }

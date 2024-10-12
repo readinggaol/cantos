@@ -1,10 +1,13 @@
 {
 	"nodes":[
-		{"id":"c5a90b7f0ce35f37","type":"file","file":"Images/Isolde1.png","x":-1040,"y":380,"width":520,"height":780},
-		{"id":"6d6d54078e71faac","type":"file","file":"Images/Isolde2.png","x":-507,"y":380,"width":507,"height":761},
-		{"id":"4c045384d089771f","type":"file","file":"Images/Iona Argent 2.jpg","x":-1040,"y":-260,"width":560,"height":560},
-		{"id":"730b9bace314235e","type":"file","file":"Images/Iona Argent.jpg","x":-1040,"y":-820,"width":520,"height":520},
-		{"id":"914763365905dfc4","type":"file","file":"Images/Rowan Kirdech.jpg","x":-480,"y":-820,"width":400,"height":400}
+		{"id":"730b9bace314235e","type":"file","file":"Images/Iona Argent.jpg","x":-1040,"y":-820,"width":640,"height":640},
+		{"id":"81c29d8f7851bf81","type":"file","file":"Gawain Raster 1.png","x":-1060,"y":-1560,"width":660,"height":660},
+		{"id":"ea4e7baffbe84766","type":"file","file":"Gawain Raster 2.png","x":-360,"y":-1560,"width":660,"height":660},
+		{"id":"7b2f2a097efb4104","x":-360,"y":-100,"width":640,"height":640,"type":"file","file":"Pasted image 20241012202902.png"},
+		{"id":"4c045384d089771f","type":"file","file":"Images/Iona Argent 2.jpg","x":-360,"y":-820,"width":640,"height":640},
+		{"id":"914763365905dfc4","type":"file","file":"Images/Rowan Kirdech.jpg","x":-1040,"y":-100,"width":640,"height":640},
+		{"id":"c5a90b7f0ce35f37","type":"file","file":"Images/Isolde1.png","x":-1040,"y":600,"width":560,"height":840},
+		{"id":"6d6d54078e71faac","type":"file","file":"Images/Isolde2.png","x":-360,"y":600,"width":560,"height":840}
 	],
 	"edges":[]
 }
