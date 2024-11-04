@@ -8,4 +8,4 @@ Magic items:
 Can:
 -can curse people, as seen when he cursed [[Russo]] in the forest
 
-Hexworthy is a fey-infused man, created by an experiment by [[Cecil Bishop]]. He is capable of sensing and interacting with fey magic, though he's not really human or 'alive' anymore.
+Hexworthy is a fey-infused man, created by [[Cecil Bishop]] after Cecil tried to bring a childhood friend back from the dead. He is capable of sensing and interacting with fey magic, though he's not really human or 'alive' anymore.

@@ -1,1 +1,3 @@
-The Whisper is the name given to the entity/god/thing driving the fey curse. It tries to continue [[The Long Verse]]
+The Whisper is the name given to the spellcaster currently controlling and contributing the majority of fey magic. They are continually trying to solidify their control over [[The Long Verse]].
+
+No one is certain who The Whisper actually is, but they are immensely powerful, capable of casting spells across great distances. They can influence people's minds and dreams. They can infect people with illness and curses.

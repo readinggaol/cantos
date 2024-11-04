@@ -1,1 +1,5 @@
 Zizania is a book of [[The Long Verse]], imbued with old fey magic and possible inhabited by a semi-autonomous entity. It has bound to [[Isolde Gawlin]], giving her magical abilities. It doesn't always listen to what her brain wants to do, but rather what her subconscious asks it to do, which is why it helped her kill Russo.
+
+It is also affected by the overriding 'theme' of the Long Verse, meaning that it generally leans towards evil/dark/unsettling magic so long as [[The Whisper]] maintains authorship. In fact, the Whisper distributes magical artefacts like Zizania on purpose, believing that the general direction/theme/flow of the Long Verse will be enough to sway any potential person who picks the book up towards their style of dark magic. Essentially, the Whisper uses Zizania to perpetuate its control over authorship style.
+
+If Isolde is persistent enough though, she could wrestle control away and make Zizania a beacon of her own magic instead.
