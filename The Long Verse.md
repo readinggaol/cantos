@@ -7,3 +7,16 @@ For example, if there were only 10 total fey spellcasters and 6 of them decided 
 The issue now is [[The Whisper]], a single spellcaster that dominates contributions to the Long Verse. Over time they have slowly warped the entirety of fey magic into a twisted, nefarious, nebulous source of evil. Various tools and feedback loops assure that the dominant source of fey magic being created in the world leads back to them, which only consolidates their power.
 
 However, if enough people contribute enough lines to the verse, the influence of the Whispers can be mitigated and perhaps even removed. The balance of the Long Verse is the thing that determines how it can be used.
+
+SPELL USED BY HEX TO REMOVE ROWAN'S PAIN BEFORE REALISING SOMETHING IS STRANGE ABOUT HIM
+**Levak k’nir, altos k’nir, trolda iguarania, moldat vakthit…**
+**“Criot ma yol-”**
+
+**“Toc’aldr, ivin yol-hakdath. Mosc’nal, jorum yol-hakdath. Jha’nair, xolch yol-hakdath.”**
+
+sacrifice/gifts
+body/soul/completeness
+
+
+{yol} - long/endless
+{hakdath} - verse

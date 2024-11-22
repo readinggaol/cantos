@@ -4,6 +4,8 @@ Appearance:
 
 Magic items:
 -a large lantern mounted on a staff that glows different colours seemingly when interacting with different kinds of magic
+->yellow/flame - normal light
+->purple - the lure
 
 Can:
 -can curse people, as seen when he cursed [[Russo]] in the forest
